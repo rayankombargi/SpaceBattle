@@ -6,5 +6,5 @@ Missing features:
 - Sound effects.
 - SpaceShip Costumization.
 - High score.
-- Compatibility to Android.
+- Compatibility on Android.
 - Two player LAN multiplayer.
