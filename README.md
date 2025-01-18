@@ -2,7 +2,7 @@
  
 This project is still under development.
 
-Missing features:
+Upcoming features:
 - Sound effects.
 - SpaceShip Costumization.
 - High score.
